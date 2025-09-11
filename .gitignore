@@ -1,0 +1,4 @@
+*.py
+stories/raw
+stories/transformed
+stories/translated
