@@ -1738,7 +1738,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "Wow, a beautiful sunrise...!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -1766,7 +1766,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "I wonder what it is, it's especially sparkly today...",
       "TalkTention": 0,
       "LipSync": 1,
@@ -1801,7 +1801,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "But, maybe I woke up a little too early.\nThere's still some time before morning practice——",
       "TalkTention": 0,
       "LipSync": 1,
@@ -1836,7 +1836,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "Ah, a message from An-chan...\n'I woke up early so I'm doing some vocal warm-ups already'——",
       "TalkTention": 0,
       "LipSync": 1,
@@ -1871,7 +1871,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "Ah...! It looks like Shinonome-kun and the others will be here soon too!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -1906,7 +1906,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "...Hehe, it seems everyone feels the same way",
       "TalkTention": 0,
       "LipSync": 1,
@@ -1941,7 +1941,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "(...That's right.\nFor the sake of making it through RUSH BEATS to perform at the world's number one event——the Lasting ECHO Fes)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -1976,7 +1976,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "(There are all sorts of things to think about besides our performance though——)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2011,7 +2011,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "(I have to work hard to reach the world,\nto see what's on the other side of that view)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2046,7 +2046,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "...I'm sure it's just as beautiful as the view from on top of that wall",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2081,7 +2081,7 @@
           "Character2dId": 286
         }
       ],
-      "WindowDisplayName": "こはね",
+      "WindowDisplayName": "Kohane",
       "Body": "--I'd better get to practice soon!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2116,7 +2116,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "Hahh, hahh, hah...!\nJust 300 more meters...!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2144,7 +2144,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(I managed to get through the talk show the other day just fine——)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2179,7 +2179,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(But I still don't know what we'll be doing next)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2214,7 +2214,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(So, I have to practice a lot to be ready for anything!)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2249,7 +2249,7 @@
           "Character2dId": 0
         }
       ],
-      "WindowDisplayName": "コメント",
+      "WindowDisplayName": "Chat",
       "Body": "'Oh, it's Minori!'\n'She's on the treadmill!'\n'Go Minori-chan, do your best~!'",
       "TalkTention": 0,
       "LipSync": 0,
@@ -2271,8 +2271,8 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
-      "Body": "(Ah, comments...!\nI'm on screen right now...!)",
+      "WindowDisplayName": "Minori",
+      "Body": "(Ah, chat...!\nI'm on screen right now...!)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
@@ -2306,7 +2306,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(That's right. If everyone is watching me——)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2341,7 +2341,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "Alright, done! My body's warmed up,\nnext let's exercise with the Minorin Dance!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2376,8 +2376,8 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
-      "Body": "--And so, everyone watching, let's do it together, here we go~!",
+      "WindowDisplayName": "Minori",
+      "Body": "--And so, chat, let's do it together, here we go~!",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2411,7 +2411,7 @@
           "Character2dId": 0
         }
       ],
-      "WindowDisplayName": "コメント",
+      "WindowDisplayName": "Chat",
       "Body": "'It's the Minorin Dance! I love it!'\n'This is kinda surreal, huh'\n'Whoa, is this a legendary stream?'",
       "TalkTention": 0,
       "LipSync": 0,
@@ -2433,7 +2433,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(——I want to deliver hope to the many people watching)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2468,7 +2468,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(Right now, through this camera,\npeople all across Japan——maybe even all over the world, might be watching me)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2503,7 +2503,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(In that case——I'll deliver it!)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2538,7 +2538,7 @@
           "Character2dId": 282
         }
       ],
-      "WindowDisplayName": "みのり",
+      "WindowDisplayName": "Minori",
       "Body": "(I'll give it my all, with the intention of delivering hope to people all over the world——!)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2573,7 +2573,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "--Alright, let's get pumped for today's practice too",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2601,7 +2601,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "(Soon, we'll be putting on a show at the THE CENTER THEATRE. We must make it a great success)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2636,7 +2636,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "For that, it's first practice, second practice, third and fourth practice, fifth practice!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2671,7 +2671,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "Might as well, I should put more thought into my practice methods too",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2706,7 +2706,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "--That's it!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2741,7 +2741,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "I should try practicing improvisational theatre using only gestures again.\nI must do everything I can!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2776,7 +2776,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "(If we make the next show a success,\nwe should be able to advance to the next stage)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2811,7 +2811,7 @@
           "Character2dId": 290
         }
       ],
-      "WindowDisplayName": "司",
+      "WindowDisplayName": "Tsukasa",
       "Body": "We absolutely must succeed!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2846,7 +2846,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(...Yeah. The next demo is taking shape)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2881,8 +2881,8 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
-      "Body": "(But, if you ask me if this song can save Mafuyu as she is now...)",
+      "WindowDisplayName": "Kanade",
+      "Body": "(But whether this song can save Mafuyu as she is now...)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
@@ -2916,7 +2916,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(...I don't know)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2951,7 +2951,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(I faced her, I cared for her——and still, it didn't work out)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -2986,7 +2986,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(What should I do...)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -3021,7 +3021,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(...Now that I think about it, that song was kind)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -3056,7 +3056,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(——I still don't have an answer, but...)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -3091,7 +3091,7 @@
           "Character2dId": 294
         }
       ],
-      "WindowDisplayName": "奏",
+      "WindowDisplayName": "Kanade",
       "Body": "(At the very least, I'll try to make a song that stays close to Mafuyu)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -3126,7 +3126,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "Phew...",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3154,7 +3154,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "The new song is almost done, huh",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3189,7 +3189,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "(Thanks to Saki, it looks like it's going to be another great song this time.\n...I want Shiho and Honami to hear it soon)",
       "TalkTention": 0,
       "LipSync": 2,
@@ -3224,7 +3224,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "Ah, a shooting star...!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3259,7 +3259,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "...Somehow, it makes me want to see everyone",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3294,7 +3294,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "Hm? A message...?",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3329,7 +3329,7 @@
           "Character2dId": 0
         }
       ],
-      "WindowDisplayName": "咲希のメッセージ",
+      "WindowDisplayName": "Saki's Message",
       "Body": "'Hey everyone, did you just see the sky~!?'",
       "TalkTention": 0,
       "LipSync": 0,
@@ -3351,7 +3351,7 @@
           "Character2dId": 0
         }
       ],
-      "WindowDisplayName": "志歩のメッセージ",
+      "WindowDisplayName": "Shiho's Message",
       "Body": "'Something was glowing, right? Maybe it was a shooting star?'",
       "TalkTention": 0,
       "LipSync": 0,
@@ -3373,7 +3373,7 @@
           "Character2dId": 0
         }
       ],
-      "WindowDisplayName": "穂波のメッセージ",
+      "WindowDisplayName": "Honami's Message",
       "Body": "'I wished for our one-man live to be a success'",
       "TalkTention": 0,
       "LipSync": 0,
@@ -3395,7 +3395,7 @@
           "Character2dId": 0
         }
       ],
-      "WindowDisplayName": "咲希のメッセージ",
+      "WindowDisplayName": "Saki's Message",
       "Body": "'Wow, that's so like Hona-chan!'",
       "TalkTention": 0,
       "LipSync": 0,
@@ -3417,7 +3417,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "Everyone saw it too, just now",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3452,7 +3452,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "--Yeah, that's right",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3487,7 +3487,7 @@
           "Character2dId": 278
         }
       ],
-      "WindowDisplayName": "一歌",
+      "WindowDisplayName": "Ichika",
       "Body": "Even when we're apart, we're still connected",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3550,7 +3550,7 @@
           "Character2dId": 316
         }
       ],
-      "WindowDisplayName": "ルカ",
+      "WindowDisplayName": "Luka",
       "Body": "Yes. It might be partly because everyone is getting closer to their goals——",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3578,7 +3578,7 @@
           "Character2dId": 316
         }
       ],
-      "WindowDisplayName": "ルカ",
+      "WindowDisplayName": "Luka",
       "Body": "But the incident with the black fragments and those mysterious encounters also seem to have had an influence",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3648,7 +3648,7 @@
           "Character2dId": 310
         }
       ],
-      "WindowDisplayName": "レン",
+      "WindowDisplayName": "Len",
       "Body": "But hey, if their feelings are getting this strong, doesn't that mean something amazing might happen again!?",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3676,8 +3676,8 @@
           "Character2dId": 304
         }
       ],
-      "WindowDisplayName": "リン",
-      "Body": "Like the trees growing with a ZDOON!?",
+      "WindowDisplayName": "Rin",
+      "Body": "The tree suddenly went boom! and grew, maybe?",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -3704,7 +3704,7 @@
           "Character2dId": 298
         }
       ],
-      "WindowDisplayName": "ミク",
+      "WindowDisplayName": "Miku",
       "Body": "It would be surprising... but if their feelings get stronger, that possibility might exist too",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3739,7 +3739,7 @@
           "Character2dId": 316
         }
       ],
-      "WindowDisplayName": "ルカ",
+      "WindowDisplayName": "Luka",
       "Body": "Oh? That light just now...",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3774,7 +3774,7 @@
           "Character2dId": 304
         }
       ],
-      "WindowDisplayName": "リン",
+      "WindowDisplayName": "Rin",
       "Body": "Whoa! So bright~!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3830,7 +3830,7 @@
           "Character2dId": 298
         }
       ],
-      "WindowDisplayName": "ミク",
+      "WindowDisplayName": "Miku",
       "Body": "This light...",
       "TalkTention": 0,
       "LipSync": 1,
@@ -3858,7 +3858,7 @@
           "Character2dId": 298
         }
       ],
-      "WindowDisplayName": "ミク",
+      "WindowDisplayName": "Miku",
       "Body": "Could it be, the SEKAI is——",
       "TalkTention": 0,
       "LipSync": 1,
