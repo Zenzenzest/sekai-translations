@@ -1,0 +1,6235 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 351856902256450410
+  },
+  "m_Name": "event_182_06",
+  "ScenarioId": "event_182_06",
+  "AppearCharacters": [
+    {
+      "Character2dId": 278,
+      "CostumeType": "v2_01ichika_casual"
+    },
+    {
+      "Character2dId": 323,
+      "CostumeType": "v2_25meiko_band"
+    }
+  ],
+  "FirstLayout": [],
+  "FirstBgm": "bgm00000",
+  "EpisodeMusicVideoId": "",
+  "FirstBackground": "bg_f000303",
+  "FirstAisacValue": "",
+  "FirstCharacterLayoutMode": 0,
+  "Snippets": [
+    {
+      "Index": 0,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 0,
+      "Delay": 0.0
+    },
+    {
+      "Index": 1,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 1,
+      "Delay": 0.0
+    },
+    {
+      "Index": 2,
+      "Action": 7,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 0,
+      "Delay": 0.0
+    },
+    {
+      "Index": 3,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 0,
+      "Delay": 1.5
+    },
+    {
+      "Index": 4,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 0,
+      "Delay": 2.0
+    },
+    {
+      "Index": 5,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 1,
+      "Delay": 0.0
+    },
+    {
+      "Index": 6,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 1,
+      "Delay": 2.049999952316284
+    },
+    {
+      "Index": 7,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 2,
+      "Delay": 0.0
+    },
+    {
+      "Index": 8,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 2,
+      "Delay": 2.450000047683716
+    },
+    {
+      "Index": 9,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 3,
+      "Delay": 0.0
+    },
+    {
+      "Index": 10,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 3,
+      "Delay": 1.2000000476837158
+    },
+    {
+      "Index": 11,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 4,
+      "Delay": 5.900000095367432
+    },
+    {
+      "Index": 12,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 4,
+      "Delay": 0.0
+    },
+    {
+      "Index": 13,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 1,
+      "Delay": 1.399999976158142
+    },
+    {
+      "Index": 14,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 5,
+      "Delay": 1.7000000476837158
+    },
+    {
+      "Index": 15,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 5,
+      "Delay": 0.0
+    },
+    {
+      "Index": 16,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 6,
+      "Delay": 0.0
+    },
+    {
+      "Index": 17,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 2,
+      "Delay": 0.0
+    },
+    {
+      "Index": 18,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 7,
+      "Delay": 2.0
+    },
+    {
+      "Index": 19,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 6,
+      "Delay": 2.0
+    },
+    {
+      "Index": 20,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 7,
+      "Delay": 0.0
+    },
+    {
+      "Index": 21,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 8,
+      "Delay": 0.0
+    },
+    {
+      "Index": 22,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 8,
+      "Delay": 2.0
+    },
+    {
+      "Index": 23,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 9,
+      "Delay": 0.0
+    },
+    {
+      "Index": 24,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 10,
+      "Delay": 0.0
+    },
+    {
+      "Index": 25,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 9,
+      "Delay": 0.0
+    },
+    {
+      "Index": 26,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 11,
+      "Delay": 2.0
+    },
+    {
+      "Index": 27,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 10,
+      "Delay": 4.75
+    },
+    {
+      "Index": 28,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 11,
+      "Delay": 0.0
+    },
+    {
+      "Index": 29,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 12,
+      "Delay": 2.0
+    },
+    {
+      "Index": 30,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 13,
+      "Delay": 2.0
+    },
+    {
+      "Index": 31,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 12,
+      "Delay": 0.0
+    },
+    {
+      "Index": 32,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 13,
+      "Delay": 0.0
+    },
+    {
+      "Index": 33,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 14,
+      "Delay": 0.0
+    },
+    {
+      "Index": 34,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 14,
+      "Delay": 0.0
+    },
+    {
+      "Index": 35,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 15,
+      "Delay": 0.0
+    },
+    {
+      "Index": 36,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 15,
+      "Delay": 3.5999999046325684
+    },
+    {
+      "Index": 37,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 3,
+      "Delay": 0.5
+    },
+    {
+      "Index": 38,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 16,
+      "Delay": 0.0
+    },
+    {
+      "Index": 39,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 16,
+      "Delay": 4.099999904632568
+    },
+    {
+      "Index": 40,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 17,
+      "Delay": 0.0
+    },
+    {
+      "Index": 41,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 17,
+      "Delay": 6.699999809265137
+    },
+    {
+      "Index": 42,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 18,
+      "Delay": 0.0
+    },
+    {
+      "Index": 43,
+      "Action": 7,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 4,
+      "Delay": 0.0
+    },
+    {
+      "Index": 44,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 19,
+      "Delay": 1.0
+    },
+    {
+      "Index": 45,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 18,
+      "Delay": 0.0
+    },
+    {
+      "Index": 46,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 20,
+      "Delay": 1.600000023841858
+    },
+    {
+      "Index": 47,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 5,
+      "Delay": 1.600000023841858
+    },
+    {
+      "Index": 48,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 19,
+      "Delay": 0.0
+    },
+    {
+      "Index": 49,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 20,
+      "Delay": 0.0
+    },
+    {
+      "Index": 50,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 21,
+      "Delay": 0.0
+    },
+    {
+      "Index": 51,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 21,
+      "Delay": 2.0
+    },
+    {
+      "Index": 52,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 22,
+      "Delay": 7.199999809265137
+    },
+    {
+      "Index": 53,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 22,
+      "Delay": 0.0
+    },
+    {
+      "Index": 54,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 23,
+      "Delay": 5.949999809265137
+    },
+    {
+      "Index": 55,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 24,
+      "Delay": 0.0
+    },
+    {
+      "Index": 56,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 23,
+      "Delay": 2.0
+    },
+    {
+      "Index": 57,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 6,
+      "Delay": 2.0
+    },
+    {
+      "Index": 58,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 25,
+      "Delay": 5.0
+    },
+    {
+      "Index": 59,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 24,
+      "Delay": 0.0
+    },
+    {
+      "Index": 60,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 26,
+      "Delay": 3.9000000953674316
+    },
+    {
+      "Index": 61,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 27,
+      "Delay": 0.0
+    },
+    {
+      "Index": 62,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 7,
+      "Delay": 0.0
+    },
+    {
+      "Index": 63,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 28,
+      "Delay": 2.0
+    },
+    {
+      "Index": 64,
+      "Action": 7,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 8,
+      "Delay": 0.0
+    },
+    {
+      "Index": 65,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 25,
+      "Delay": 1.0
+    },
+    {
+      "Index": 66,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 26,
+      "Delay": 0.0
+    },
+    {
+      "Index": 67,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 27,
+      "Delay": 0.0
+    },
+    {
+      "Index": 68,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 29,
+      "Delay": 0.0
+    },
+    {
+      "Index": 69,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 28,
+      "Delay": 0.0
+    },
+    {
+      "Index": 70,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 2,
+      "Delay": 0.0
+    },
+    {
+      "Index": 71,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 9,
+      "Delay": 0.0
+    },
+    {
+      "Index": 72,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 30,
+      "Delay": 0.0
+    },
+    {
+      "Index": 73,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 3,
+      "Delay": 0.0
+    },
+    {
+      "Index": 74,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 4,
+      "Delay": 0.0
+    },
+    {
+      "Index": 75,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 31,
+      "Delay": 0.0
+    },
+    {
+      "Index": 76,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 5,
+      "Delay": 0.0
+    },
+    {
+      "Index": 77,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 29,
+      "Delay": 0.0
+    },
+    {
+      "Index": 78,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 32,
+      "Delay": 4.25
+    },
+    {
+      "Index": 79,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 30,
+      "Delay": 0.0
+    },
+    {
+      "Index": 80,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 33,
+      "Delay": 1.899999976158142
+    },
+    {
+      "Index": 81,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 6,
+      "Delay": 0.0
+    },
+    {
+      "Index": 82,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 34,
+      "Delay": 0.0
+    },
+    {
+      "Index": 83,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 7,
+      "Delay": 0.0
+    },
+    {
+      "Index": 84,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 8,
+      "Delay": 0.0
+    },
+    {
+      "Index": 85,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 35,
+      "Delay": 0.0
+    },
+    {
+      "Index": 86,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 9,
+      "Delay": 0.0
+    },
+    {
+      "Index": 87,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 31,
+      "Delay": 0.0
+    },
+    {
+      "Index": 88,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 36,
+      "Delay": 0.0
+    },
+    {
+      "Index": 89,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 37,
+      "Delay": 2.0
+    },
+    {
+      "Index": 90,
+      "Action": 7,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 10,
+      "Delay": 0.0
+    },
+    {
+      "Index": 91,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 11,
+      "Delay": 0.0
+    },
+    {
+      "Index": 92,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 38,
+      "Delay": 1.0
+    },
+    {
+      "Index": 93,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 32,
+      "Delay": 0.0
+    },
+    {
+      "Index": 94,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 39,
+      "Delay": 0.0
+    },
+    {
+      "Index": 95,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 12,
+      "Delay": 0.0
+    },
+    {
+      "Index": 96,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 33,
+      "Delay": 2.0
+    },
+    {
+      "Index": 97,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 10,
+      "Delay": 0.0
+    },
+    {
+      "Index": 98,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 40,
+      "Delay": 0.0
+    },
+    {
+      "Index": 99,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 11,
+      "Delay": 0.0
+    },
+    {
+      "Index": 100,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 12,
+      "Delay": 0.0
+    },
+    {
+      "Index": 101,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 41,
+      "Delay": 0.0
+    },
+    {
+      "Index": 102,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 34,
+      "Delay": 0.0
+    },
+    {
+      "Index": 103,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 13,
+      "Delay": 0.0
+    },
+    {
+      "Index": 104,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 42,
+      "Delay": 2.799999952316284
+    },
+    {
+      "Index": 105,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 35,
+      "Delay": 0.0
+    },
+    {
+      "Index": 106,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 36,
+      "Delay": 0.0
+    },
+    {
+      "Index": 107,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 37,
+      "Delay": 0.0
+    },
+    {
+      "Index": 108,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 43,
+      "Delay": 4.150000095367432
+    },
+    {
+      "Index": 109,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 38,
+      "Delay": 0.0
+    },
+    {
+      "Index": 110,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 44,
+      "Delay": 2.200000047683716
+    },
+    {
+      "Index": 111,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 45,
+      "Delay": 0.0
+    },
+    {
+      "Index": 112,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 46,
+      "Delay": 0.0
+    },
+    {
+      "Index": 113,
+      "Action": 6,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 13,
+      "Delay": 0.0
+    },
+    {
+      "Index": 114,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 14,
+      "Delay": 0.0
+    },
+    {
+      "Index": 115,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 39,
+      "Delay": 0.0
+    },
+    {
+      "Index": 116,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 15,
+      "Delay": 0.5
+    },
+    {
+      "Index": 117,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 47,
+      "Delay": 0.0
+    },
+    {
+      "Index": 118,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 48,
+      "Delay": 0.0
+    },
+    {
+      "Index": 119,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 40,
+      "Delay": 0.0
+    },
+    {
+      "Index": 120,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 49,
+      "Delay": 1.7999999523162842
+    },
+    {
+      "Index": 121,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 50,
+      "Delay": 0.0
+    },
+    {
+      "Index": 122,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 51,
+      "Delay": 0.0
+    },
+    {
+      "Index": 123,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 52,
+      "Delay": 0.0
+    },
+    {
+      "Index": 124,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 41,
+      "Delay": 0.0
+    },
+    {
+      "Index": 125,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 53,
+      "Delay": 3.5999999046325684
+    },
+    {
+      "Index": 126,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 42,
+      "Delay": 0.0
+    },
+    {
+      "Index": 127,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 54,
+      "Delay": 1.899999976158142
+    },
+    {
+      "Index": 128,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 55,
+      "Delay": 0.0
+    },
+    {
+      "Index": 129,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 56,
+      "Delay": 0.0
+    },
+    {
+      "Index": 130,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 57,
+      "Delay": 0.0
+    },
+    {
+      "Index": 131,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 43,
+      "Delay": 0.0
+    },
+    {
+      "Index": 132,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 58,
+      "Delay": 2.5999999046325684
+    },
+    {
+      "Index": 133,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 44,
+      "Delay": 0.0
+    },
+    {
+      "Index": 134,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 59,
+      "Delay": 0.0
+    },
+    {
+      "Index": 135,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 60,
+      "Delay": 0.0
+    },
+    {
+      "Index": 136,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 61,
+      "Delay": 0.0
+    },
+    {
+      "Index": 137,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 45,
+      "Delay": 0.0
+    },
+    {
+      "Index": 138,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 62,
+      "Delay": 1.2999999523162842
+    },
+    {
+      "Index": 139,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 46,
+      "Delay": 0.0
+    },
+    {
+      "Index": 140,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 63,
+      "Delay": 3.25
+    },
+    {
+      "Index": 141,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 47,
+      "Delay": 0.0
+    },
+    {
+      "Index": 142,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 64,
+      "Delay": 1.649999976158142
+    },
+    {
+      "Index": 143,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 48,
+      "Delay": 0.0
+    },
+    {
+      "Index": 144,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 65,
+      "Delay": 2.4000000953674316
+    },
+    {
+      "Index": 145,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 66,
+      "Delay": 0.0
+    },
+    {
+      "Index": 146,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 67,
+      "Delay": 0.0
+    },
+    {
+      "Index": 147,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 68,
+      "Delay": 0.0
+    },
+    {
+      "Index": 148,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 49,
+      "Delay": 0.0
+    },
+    {
+      "Index": 149,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 69,
+      "Delay": 4.300000190734863
+    },
+    {
+      "Index": 150,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 70,
+      "Delay": 0.0
+    },
+    {
+      "Index": 151,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 16,
+      "Delay": 0.0
+    },
+    {
+      "Index": 152,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 50,
+      "Delay": 2.0
+    },
+    {
+      "Index": 153,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 71,
+      "Delay": 6.199999809265137
+    },
+    {
+      "Index": 154,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 51,
+      "Delay": 0.0
+    },
+    {
+      "Index": 155,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 72,
+      "Delay": 4.949999809265137
+    },
+    {
+      "Index": 156,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 17,
+      "Delay": 0.5
+    },
+    {
+      "Index": 157,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 73,
+      "Delay": 0.0
+    },
+    {
+      "Index": 158,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 74,
+      "Delay": 0.0
+    },
+    {
+      "Index": 159,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 75,
+      "Delay": 0.0
+    },
+    {
+      "Index": 160,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 52,
+      "Delay": 0.0
+    },
+    {
+      "Index": 161,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 76,
+      "Delay": 1.5
+    },
+    {
+      "Index": 162,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 53,
+      "Delay": 0.0
+    },
+    {
+      "Index": 163,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 77,
+      "Delay": 3.3499999046325684
+    },
+    {
+      "Index": 164,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 78,
+      "Delay": 0.0
+    },
+    {
+      "Index": 165,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 79,
+      "Delay": 0.0
+    },
+    {
+      "Index": 166,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 80,
+      "Delay": 0.0
+    },
+    {
+      "Index": 167,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 54,
+      "Delay": 0.0
+    },
+    {
+      "Index": 168,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 81,
+      "Delay": 3.0
+    },
+    {
+      "Index": 169,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 82,
+      "Delay": 7.300000190734863
+    },
+    {
+      "Index": 170,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 55,
+      "Delay": 0.0
+    },
+    {
+      "Index": 171,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 83,
+      "Delay": 1.649999976158142
+    },
+    {
+      "Index": 172,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 84,
+      "Delay": 0.0
+    },
+    {
+      "Index": 173,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 85,
+      "Delay": 0.0
+    },
+    {
+      "Index": 174,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 86,
+      "Delay": 0.0
+    },
+    {
+      "Index": 175,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 87,
+      "Delay": 2.0
+    },
+    {
+      "Index": 176,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 88,
+      "Delay": 0.0
+    },
+    {
+      "Index": 177,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 56,
+      "Delay": 0.0
+    },
+    {
+      "Index": 178,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 89,
+      "Delay": 1.5
+    },
+    {
+      "Index": 179,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 90,
+      "Delay": 0.0
+    },
+    {
+      "Index": 180,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 91,
+      "Delay": 0.0
+    },
+    {
+      "Index": 181,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 92,
+      "Delay": 0.0
+    },
+    {
+      "Index": 182,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 57,
+      "Delay": 0.0
+    },
+    {
+      "Index": 183,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 93,
+      "Delay": 0.0
+    },
+    {
+      "Index": 184,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 94,
+      "Delay": 0.0
+    },
+    {
+      "Index": 185,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 95,
+      "Delay": 0.0
+    },
+    {
+      "Index": 186,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 58,
+      "Delay": 0.0
+    },
+    {
+      "Index": 187,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 96,
+      "Delay": 5.849999904632568
+    },
+    {
+      "Index": 188,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 59,
+      "Delay": 0.0
+    },
+    {
+      "Index": 189,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 97,
+      "Delay": 1.600000023841858
+    },
+    {
+      "Index": 190,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 98,
+      "Delay": 0.0
+    },
+    {
+      "Index": 191,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 99,
+      "Delay": 0.0
+    },
+    {
+      "Index": 192,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 100,
+      "Delay": 0.0
+    },
+    {
+      "Index": 193,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 60,
+      "Delay": 2.0
+    },
+    {
+      "Index": 194,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 101,
+      "Delay": 5.25
+    },
+    {
+      "Index": 195,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 61,
+      "Delay": 0.0
+    },
+    {
+      "Index": 196,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 102,
+      "Delay": 4.5
+    },
+    {
+      "Index": 197,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 103,
+      "Delay": 0.0
+    },
+    {
+      "Index": 198,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 104,
+      "Delay": 0.0
+    },
+    {
+      "Index": 199,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 105,
+      "Delay": 0.0
+    },
+    {
+      "Index": 200,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 106,
+      "Delay": 2.0
+    },
+    {
+      "Index": 201,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 107,
+      "Delay": 0.0
+    },
+    {
+      "Index": 202,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 62,
+      "Delay": 0.0
+    },
+    {
+      "Index": 203,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 108,
+      "Delay": 2.700000047683716
+    },
+    {
+      "Index": 204,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 109,
+      "Delay": 5.800000190734863
+    },
+    {
+      "Index": 205,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 63,
+      "Delay": 0.0
+    },
+    {
+      "Index": 206,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 110,
+      "Delay": 3.0999999046325684
+    },
+    {
+      "Index": 207,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 111,
+      "Delay": 0.0
+    },
+    {
+      "Index": 208,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 112,
+      "Delay": 0.0
+    },
+    {
+      "Index": 209,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 64,
+      "Delay": 0.0
+    },
+    {
+      "Index": 210,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 14,
+      "Delay": 0.0
+    },
+    {
+      "Index": 211,
+      "Action": 7,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 18,
+      "Delay": 0.0
+    },
+    {
+      "Index": 212,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 113,
+      "Delay": 0.0
+    },
+    {
+      "Index": 213,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 15,
+      "Delay": 0.0
+    },
+    {
+      "Index": 214,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 16,
+      "Delay": 0.0
+    },
+    {
+      "Index": 215,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 65,
+      "Delay": 0.0
+    },
+    {
+      "Index": 216,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 17,
+      "Delay": 0.0
+    },
+    {
+      "Index": 217,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 18,
+      "Delay": 0.0
+    },
+    {
+      "Index": 218,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 114,
+      "Delay": 0.0
+    },
+    {
+      "Index": 219,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 19,
+      "Delay": 0.0
+    },
+    {
+      "Index": 220,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 66,
+      "Delay": 0.0
+    },
+    {
+      "Index": 221,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 115,
+      "Delay": 0.0
+    },
+    {
+      "Index": 222,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 67,
+      "Delay": 2.0
+    },
+    {
+      "Index": 223,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 68,
+      "Delay": 0.0
+    },
+    {
+      "Index": 224,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 116,
+      "Delay": 6.0
+    },
+    {
+      "Index": 225,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 69,
+      "Delay": 0.0
+    },
+    {
+      "Index": 226,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 117,
+      "Delay": 4.800000190734863
+    },
+    {
+      "Index": 227,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 118,
+      "Delay": 0.0
+    },
+    {
+      "Index": 228,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 119,
+      "Delay": 0.0
+    },
+    {
+      "Index": 229,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 120,
+      "Delay": 0.0
+    },
+    {
+      "Index": 230,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 121,
+      "Delay": 1.5
+    },
+    {
+      "Index": 231,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 70,
+      "Delay": 2.0
+    },
+    {
+      "Index": 232,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 71,
+      "Delay": 0.0
+    },
+    {
+      "Index": 233,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 122,
+      "Delay": 2.450000047683716
+    },
+    {
+      "Index": 234,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 123,
+      "Delay": 0.0
+    },
+    {
+      "Index": 235,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 124,
+      "Delay": 0.0
+    },
+    {
+      "Index": 236,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 125,
+      "Delay": 0.0
+    },
+    {
+      "Index": 237,
+      "Action": 1,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 72,
+      "Delay": 0.0
+    },
+    {
+      "Index": 238,
+      "Action": 4,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 126,
+      "Delay": 1.850000023841858
+    },
+    {
+      "Index": 239,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 127,
+      "Delay": 0.0
+    },
+    {
+      "Index": 240,
+      "Action": 7,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 19,
+      "Delay": 2.0
+    },
+    {
+      "Index": 241,
+      "Action": 6,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 20,
+      "Delay": 0.0
+    },
+    {
+      "Index": 242,
+      "Action": 2,
+      "ProgressBehavior": 1,
+      "ReferenceIndex": 128,
+      "Delay": 0.0
+    },
+    {
+      "Index": 243,
+      "Action": 2,
+      "ProgressBehavior": 0,
+      "ReferenceIndex": 129,
+      "Delay": 0.0
+    }
+  ],
+  "TalkData": [
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "——Yeah. Feeling good.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-nod",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_01_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "I'm getting a much better handle on the parts I messed up today too.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_02_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(I still want to practice more...\nBut I really should take a little break.)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-trouble",
+          "FacialName": "face_smile_04",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_03_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Ah...!\nThat's right, Saki sent me a few messages saying\nsome fanart for 'WITH' had been posted.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-shy",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_04_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "I wonder what they're like——hmm?",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-adult01-think",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_05_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "A DM? From who............",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute01-tilthead",
+          "FacialName": "face_smallmouth_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_06_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "............Aoi-san...?",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal01-tilthead",
+          "FacialName": "face_surprise_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_07_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Why from Aoi-san again...!?",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal0103-tilthead",
+          "FacialName": "face_surprise_03",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_08_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(Probably about that video... right)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-relief",
+          "FacialName": "face_worry_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_09_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(Did something happen?\nMaybe some of Aoi-san's fans said something...?)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-tilthead",
+          "FacialName": "face_worry_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_10_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(What should I do. If my song caused trouble for her...)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal07-sigh",
+          "FacialName": "face_worry_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_11_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(Maybe I'm overthinking...\nBut if it's really true...)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal07-tilthead",
+          "FacialName": "face_sad_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_12_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 0
+        }
+      ],
+      "WindowDisplayName": "Aoi",
+      "Body": "『Despite my sudden request the other day,\nyou kindly permitted me to use your song in my video.\nThank you so much.』",
+      "TalkTention": 0,
+      "LipSync": 0,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 0
+        }
+      ],
+      "WindowDisplayName": "Aoi",
+      "Body": "『It seems to have received more attention than I anticipated,\nand I was wondering if this has caused you any inconvenience...?』",
+      "TalkTention": 0,
+      "LipSync": 0,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Ah............",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_13_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "...I see. They were worried and contacted me.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-relief",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_14_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Um, 'Thank you for your concern'...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smallmouth_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_15_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "'In fact, thanks to you, Aoi-san, many people are listening to it now,\nand I'm really happy!' and...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-tilthead",
+          "FacialName": "face_smallmouth_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_16_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Wh-wow, they already replied... um——",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-tilthead",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_17_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Ah, they said 'I'm relieved'...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_18_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(...That's good)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-relief",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_19_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(When I got the message from Aoi-san before...\nI was so surprised I could only write the bare minimum)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-nod",
+          "FacialName": "face_smile_04",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_20_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(I want to properly... tell then my thoughts on the video,\nand how moved I was)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-relief",
+          "FacialName": "face_sharp_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_21_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "'I was truly moved when I saw the video you made'",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal01-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_22_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "'I especially love the scene where Miku reaches her hand out\ntowards us'...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute01-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_23_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 0
+        }
+      ],
+      "WindowDisplayName": "Aoi",
+      "Body": "『Thank *you* so much for the wonderful song!』",
+      "TalkTention": 0,
+      "LipSync": 0,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 0
+        }
+      ],
+      "WindowDisplayName": "Aoi",
+      "Body": "『When I heard that song, so many memories with Miku came flooding back.\nLike when I first met her,\nand how my world changed thanks to Miku.』",
+      "TalkTention": 0,
+      "LipSync": 0,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 0
+        }
+      ],
+      "WindowDisplayName": "Aoi",
+      "Body": "『I wanted to give form to these feelings somehow,\nand before I knew it, I was absorbed in making the video.』",
+      "TalkTention": 0,
+      "LipSync": 0,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "World...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-tilthead",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_24_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "I wanted to convey how my world kept expanding\nbecause of meeting Miku.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_04_28_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "——That thanks to Miku, my world changed!",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-shy",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_04_29_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(...As I thought, Aoi-san felt the same way)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_25_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Ah, another message——",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smallmouth_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_26_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Eh...?",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-tilthead",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_27_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "——'Yes. If the opportunity arises,\nI'd be very happy to work together'...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_28_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "...Phew",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-relief",
+          "FacialName": "face_smile_04",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_29_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "What should I do. My heart is still pounding...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-trouble",
+          "FacialName": "face_smile_04",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_30_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(I never thought I'd be able to talk about Miku\nlike this with Aoi-san...)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-tilthead",
+          "FacialName": "face_smile_04",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_31_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "(And to be told something like that——)",
+      "TalkTention": 0,
+      "LipSync": 2,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_32_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『Yoohoo, Ichika!』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_33_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Whoa!\nM-MEIKO? What's up?",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-guts",
+          "FacialName": "face_surprise_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_34_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『I came to celebrate your song.\nIs now a good time?』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-happy09-nod",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_35_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "It's fine, but... celebrate?",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-nodB",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_36_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『I just heard from Saki\nthat your song is doing amazingly well.』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-cool09-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_37_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『She said a famous creator made a video for it?』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-happy14-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_38_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Ah... yeah! That's right!",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-tilthead",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_39_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Just now, I was talking via DM with that creator——Aoi-san.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-trouble",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_40_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『Eh, really? What did they say?』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-cool02-tilthead",
+          "FacialName": "face_smallmouth_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_41_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "They told me, 'Thank you for the wonderful song.'",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_42_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "We got really excited talking about Miku's songs from there.\nAnd then——",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-relief",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_43_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "They said, 'If you'd like, I'd be happy to create something together someday.'",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-tilthead",
+          "FacialName": "face_smile_05",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_44_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "They said if there's anything like an MV where she could help...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal15-shy",
+          "FacialName": "face_smile_05",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_45_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『An MV!? That's amazing, Ichika!』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-cute02-forward",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_46_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Yeah...!\nI was so surprised I had to read the message twice.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-animal01-nod",
+          "FacialName": "face_smile_03",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_47_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "To be told by a creator I admire\nthat they want to create something together...\nI never imagined it.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-adult01-tilthead",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_48_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "...This is also thanks to Miku.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-tilthead",
+          "FacialName": "face_smile_10",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_49_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "And thank you too, MEIKO.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_50_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『Eh?』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-happy14-tilthead",
+          "FacialName": "face_smallmouth_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_51_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "The reason I decided to let everyone hear the song\nwas because you and the others pushed me forward back then.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal03-relief",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_52_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "So——thank you so much.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute12-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_53_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『Ahaha! I just said what I thought.』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-cute01-tilthead",
+          "FacialName": "face_closeeye_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_54_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『And... you said it's thanks to Miku,\nbut I don't think it's just Miku's power.』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-adult01-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_55_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『You're the one who made this song,\nand Aoi-san had their heart moved by listening to *your* song.』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-normal03-trouble",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_56_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『I think that means your song had that much power, doesn't it?』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-normal03-relief",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_57_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "Ah...",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-tilthead",
+          "FacialName": "face_surprise_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_58_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 0
+        }
+      ],
+      "WindowDisplayName": "Aoi",
+      "Body": "『When I heard that song, so many memories with Miku came flooding back.\nLike when I first met her,\nand how my world changed thanks to Miku.』",
+      "TalkTention": 0,
+      "LipSync": 0,
+      "MotionChangeFrom": 1,
+      "Motions": [],
+      "Voices": [],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "...I see.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-cute02-nodB",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_59_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "I'm glad I made that song.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-relief",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_60_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "At first, I only thought about... just wanting to make a Miku song myself.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smile_04",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_61_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 278
+        }
+      ],
+      "WindowDisplayName": "Ichika",
+      "Body": "But now I understand that it can reach someone in this way too.",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 278,
+          "MotionName": "w-normal04-tilthead",
+          "FacialName": "face_smile_01",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 278,
+          "VoiceId": "voice_ev_band_22_06_62_01",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『...I'm glad.』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-normal15-nod",
+          "FacialName": "face_smile_03",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_63_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『It seems to be reaching lots of people\nwho love Miku...』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-cute02-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_64_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 0,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    },
+    {
+      "TalkCharacters": [
+        {
+          "Character2dId": 323
+        }
+      ],
+      "WindowDisplayName": "MEIKO",
+      "Body": "『Your song——seems like it will spread even further.』",
+      "TalkTention": 0,
+      "LipSync": 1,
+      "MotionChangeFrom": 1,
+      "Motions": [
+        {
+          "Character2dId": 323,
+          "MotionName": "w-cool02-tilthead",
+          "FacialName": "face_smile_02",
+          "TimingSyncValue": 0.0
+        }
+      ],
+      "Voices": [
+        {
+          "Character2dId": 323,
+          "VoiceId": "voice_ev_band_22_06_65_25_band",
+          "Volume": 1.0
+        }
+      ],
+      "Speed": 0.0,
+      "FontSize": 0,
+      "WhenFinishCloseWindow": 1,
+      "RequirePlayEffect": 0,
+      "EffectReferenceIdx": 0,
+      "RequirePlaySound": 0,
+      "SoundReferenceIdx": 0,
+      "TargetValueScale": 0.0
+    }
+  ],
+  "LayoutData": [
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "v2_01ichika_casual",
+      "MotionName": "w-happy02-nod",
+      "FacialName": "face_sharp_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-tilthead",
+      "FacialName": "face_smile_04",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-adult01-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-adult01-nod",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-adult01-tilthead",
+      "FacialName": "face_surprise_02",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-trouble",
+      "FacialName": "face_surprise_03",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal07-sad",
+      "FacialName": "face_lookdown_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-tilthead",
+      "FacialName": "face_sad_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-shy",
+      "FacialName": "face_closeeye_04",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-wink",
+      "FacialName": "face_sad_06",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-nod",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-nod",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cute02-nodB",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cool02-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-tilthead",
+      "FacialName": "face_smile_04",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-nod",
+      "FacialName": "face_sharp_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal01-nod",
+      "FacialName": "face_sharp_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-animal01-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-adult01-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-adult01-tilthead",
+      "FacialName": "face_sharp_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-pose",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-pose",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-relief",
+      "FacialName": "face_smile_10",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cool02-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal01-nod",
+      "FacialName": "face_sharp_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-animal01-nod",
+      "FacialName": "face_sharp_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-relief",
+      "FacialName": "face_smile_04",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-shy",
+      "FacialName": "face_ncsparkling_03",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "v2_25meiko_band",
+      "MotionName": "w-animal01-nod",
+      "FacialName": "face_closeeye_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_surprise_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cute02-tilthead",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-happy09-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cool02-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-happy09-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cute02-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-cute02-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal08-tilthead",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal08-sad",
+      "FacialName": "face_smile_06",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-nod",
+      "FacialName": "face_smile_05",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal15-nod",
+      "FacialName": "face_smile_05",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-cute02-nod",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal01-tilthead",
+      "FacialName": "face_smile_04",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-adult01-nod",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cute01-tilthead",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-relief",
+      "FacialName": "face_smile_10",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_smile_03",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-cute02-tilthead",
+      "FacialName": "face_smile_03",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal03-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cute12-nod",
+      "FacialName": "face_ncsmile_03",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-adult01-tilthead",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-adult01-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-normal01-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-cool02-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-normal03-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-normal03-nod",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-normal03-tilthead",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_surprise_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-trouble",
+      "FacialName": "face_smile_10",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-trouble",
+      "FacialName": "face_smile_04",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-normal04-nod",
+      "FacialName": "face_smile_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-normal15-tilthead",
+      "FacialName": "face_smallmouth_01",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-normal15-shy",
+      "FacialName": "face_smile_03",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-cute02-nodB",
+      "FacialName": "face_smile_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 4,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 4,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 2,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 0,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "w-cute02-nod",
+      "FacialName": "face_closeeye_02",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 1,
+      "SideFrom": 0,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "w-animal12-nod",
+      "FacialName": "face_ncsmile_03",
+      "MoveSpeedType": 1
+    },
+    {
+      "Type": 3,
+      "SideFrom": 3,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 3,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 278,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    },
+    {
+      "Type": 3,
+      "SideFrom": 7,
+      "SideFromOffsetX": 0.0,
+      "SideTo": 7,
+      "SideToOffsetX": 0.0,
+      "DepthType": 0,
+      "Character2dId": 323,
+      "CostumeType": "",
+      "MotionName": "",
+      "FacialName": "",
+      "MoveSpeedType": 0
+    }
+  ],
+  "SpecialEffectData": [
+    {
+      "EffectType": 8,
+      "StringVal": "数時間後",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 8,
+      "StringVal": "一歌の部屋",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 4,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 9,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 7,
+      "StringVal": "bg_f000101",
+      "StringValSub": "bg_f000101",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 3,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 4,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 10,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 7,
+      "StringVal": "bg_f000303",
+      "StringValSub": "bg_f000303",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 3,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 2,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 2.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 1,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 1.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 8,
+      "StringVal": "数分後",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 22,
+      "StringVal": "hologram",
+      "StringValSub": "scenario/effect/hologram",
+      "Duration": 0.0,
+      "IntVal": 323
+    },
+    {
+      "EffectType": 4,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 9,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 3,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 4,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 10,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.0,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 3,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 0.10000000149011612,
+      "IntVal": 0
+    },
+    {
+      "EffectType": 2,
+      "StringVal": "",
+      "StringValSub": "",
+      "Duration": 2.5,
+      "IntVal": 0
+    }
+  ],
+  "SoundData": [
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00102_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00004_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00183_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "bgm00024",
+      "Se": "",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 1.5,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00004_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00183_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00183_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00183_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00004_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00053_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00004_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "bgm00000",
+      "Se": "",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 1.5,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00183_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00183_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00028_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "bgm00180",
+      "Se": "",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 1.5,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "bgm00000",
+      "Se": "",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 2.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "bgm00069",
+      "Se": "",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 1.5,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "",
+      "Se": "se00053_b",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 0.0,
+      "BgmBlockIndex": 0
+    },
+    {
+      "PlayMode": 0,
+      "Bgm": "bgm00000",
+      "Se": "",
+      "Volume": 1.0,
+      "SeBundleName": "",
+      "Duration": 2.5,
+      "BgmBlockIndex": 0
+    }
+  ],
+  "NeedBundleNames": [
+    "scenario/background/bg_f000303",
+    "scenario/background/bg_f000101"
+  ],
+  "IncludeSoundDataBundleNames": [
+    "scenario/effect/hologram"
+  ],
+  "ScenarioSnippetCharacterLayoutModes": []
+}
