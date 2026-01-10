@@ -1715,7 +1715,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "\"——Kanade.\"",
+      "Body": "\"-Kanade.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1750,7 +1750,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "If you could save Mafuyu as you wish——",
+      "Body": "If you could save Mafuyu as you wish",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1820,7 +1820,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "————Huh?",
+      "Body": "Huh?",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1890,7 +1890,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "...You still don't understand? Then——",
+      "Body": "...You still don't understand? Then-",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1953,7 +1953,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "\"——I won't allow you to go any further.\"",
+      "Body": "\"-I won't allow you to go any further.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1987,7 +1987,7 @@
           "Character2dId": 297
         }
       ],
-      "WindowDisplayName": "瑞希",
+      "WindowDisplayName": "Mizuki",
       "Body": "Whoa...! Stop, sto-op!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2015,7 +2015,7 @@
           "Character2dId": 297
         }
       ],
-      "WindowDisplayName": "瑞希",
+      "WindowDisplayName": "Mizuki",
       "Body": "C'mon now, everyone just calm down~!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2043,7 +2043,7 @@
           "Character2dId": 297
         }
       ],
-      "WindowDisplayName": "瑞希",
+      "WindowDisplayName": "Mizuki",
       "Body": "See, you're even startling Kanade...! Let's just eat some tasty sweets and change the mood!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2099,7 +2099,7 @@
           "Character2dId": 297
         }
       ],
-      "WindowDisplayName": "瑞希",
+      "WindowDisplayName": "Mizuki",
       "Body": "Don't be like that!!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2155,7 +2155,7 @@
           "Character2dId": 296
         }
       ],
-      "WindowDisplayName": "絵名",
+      "WindowDisplayName": "Ena",
       "Body": "Kanade...",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2225,7 +2225,7 @@
           "Character2dId": 297
         }
       ],
-      "WindowDisplayName": "瑞希",
+      "WindowDisplayName": "Mizuki",
       "Body": "...You don't have to push yourself, okay.",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2260,7 +2260,7 @@
           "Character2dId": 297
         }
       ],
-      "WindowDisplayName": "瑞希",
+      "WindowDisplayName": "Mizuki",
       "Body": "C'mon, let's eat the sweets together!",
       "TalkTention": 0,
       "LipSync": 1,
@@ -2331,7 +2331,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "\"——Well then, I'll be looking forward to what answer you come up with.\"",
+      "Body": "\"-Well then, I'll be looking forward to what answer you come up with.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2401,7 +2401,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "\"——Wait!\"",
+      "Body": "\"-Wait!\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2737,7 +2737,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "(But——)",
+      "Body": "(But-)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
@@ -2807,7 +2807,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "(But——now that things have come to this, I must see it through.)",
+      "Body": "(But-now that things have come to this, I must see it through.)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
@@ -2842,7 +2842,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "(The place where that girl ends up——)",
+      "Body": "(The place where that girl ends up-)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
