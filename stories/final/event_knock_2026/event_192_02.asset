@@ -1674,7 +1674,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "I bought the carnations you liked. ...I'll put them here now.",
+      "Body": "I bought the carnations you liked. I'll put them here now.",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1744,7 +1744,7 @@
         }
       ],
       "WindowDisplayName": "Kanade's Grandma",
-      "Body": "\"Kanade-chan, are you finished cleaning up?\"",
+      "Body": "\"Kanade-chan, are you done cleaning up?\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1870,7 +1870,7 @@
         }
       ],
       "WindowDisplayName": "Kanade's Grandma",
-      "Body": "\"Well then, let's offer the fruit and sweets too. Some dango, some rakugan, and-\"",
+      "Body": "\"Well then, let's offer the fruit and sweets too. Some dango, some rakugan, and\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2206,7 +2206,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "............Then, I'll take one.",
+      "Body": ".......Then, I'll take one.",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2535,7 +2535,7 @@
         }
       ],
       "WindowDisplayName": "Kanade's Grandma",
-      "Body": "\"Yes. Until just a little while ago, even when you came to your mother's grave, you looked like you were in pain somewhere... You seemed like you were blaming yourself.\"",
+      "Body": "\"Yes. Until just a little while ago, even when you came to your mother's grave, you looked like you were in pain... You seemed like you were blaming yourself.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2815,7 +2815,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "Yeah. It's not just about making music; I feel like they support me in other ways too.",
+      "Body": "Yeah. It's not just about making music. I feel like they support me in other ways too.",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2850,7 +2850,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "They even get mad at me if I push myself too hard...",
+      "Body": "They would even scold me if I push myself too hard...",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -3431,7 +3431,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "(And also--)",
+      "Body": "(And also-)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
@@ -3466,7 +3466,7 @@
         }
       ],
       "WindowDisplayName": "Kanade's Mom",
-      "Body": "\"-Hey, Kanade.\"",
+      "Body": "\"Hey, Kanade.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -3739,7 +3739,7 @@
         }
       ],
       "WindowDisplayName": "Kanade's Grandma",
-      "Body": "\"-Well now, shall we head back soon?\"",
+      "Body": "\"Well now, shall we head back soon?\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -3886,7 +3886,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "\"-I'm really glad I could come today.\"",
+      "Body": "\"I'm really glad I could come today.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -4306,7 +4306,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "............It's about a... friend.",
+      "Body": "...It's about a... friend.",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,

@@ -1442,7 +1442,7 @@
         }
       ],
       "WindowDisplayName": "Kanade",
-      "Body": "............I don't know.",
+      "Body": "...I don't know.",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1715,7 +1715,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "\"-Kanade.\"",
+      "Body": "\"Kanade.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -1953,7 +1953,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "\"-I won't allow you to go any further.\"",
+      "Body": "\"I won't allow you to go any further.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2331,7 +2331,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "\"-Well then, I'll be looking forward to what answer you come up with.\"",
+      "Body": "\"Well then, I'll be looking forward to what answer you come up with.\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2401,7 +2401,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "\"-Wait!\"",
+      "Body": "\"Wait!\"",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2541,7 +2541,7 @@
         }
       ],
       "WindowDisplayName": "Luka",
-      "Body": "Don't you think it's time she knew? That she too, is dependent.",
+      "Body": "Don't you think it's time she realized? She's just as dependent on Mafuyu as Mafuyu is on her.",
       "TalkTention": 0,
       "LipSync": 1,
       "MotionChangeFrom": 1,
@@ -2807,7 +2807,7 @@
         }
       ],
       "WindowDisplayName": "MEIKO",
-      "Body": "(But-now that things have come to this, I must see it through.)",
+      "Body": "(But now that things have come to this, I must see it through.)",
       "TalkTention": 0,
       "LipSync": 2,
       "MotionChangeFrom": 1,
