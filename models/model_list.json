@@ -4210,5 +4210,11 @@
     "modelBase": "sub_igs_princess_black",
     "modelPath": "v1/sub/sub_igs_princess_black",
     "modelFile": "sub_igs_princess_t05_black.model3.json"
+  },
+  {
+    "modelName": "sub_igs_princess_t05",
+    "modelBase": "sub_igs_princess",
+    "modelPath": "v1/sub/sub_igs_princess",
+    "modelFile": "sub_igs_princess_t05.model3.json"
   }
 ]
