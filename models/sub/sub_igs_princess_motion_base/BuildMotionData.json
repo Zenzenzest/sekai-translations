@@ -1,0 +1,1624 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -7665801864460006320
+  },
+  "m_Name": "BuildMotionData",
+  "Motions": [
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8467177191309396646
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -266952694735158768
+      },
+      "ClipAssetName": "s-common-angry01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 7552445958110591742
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6332240599528870860
+      },
+      "ClipAssetName": "s-common-angry02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 773734084833971761
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -610369620932150419
+      },
+      "ClipAssetName": "s-common-blushed01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4811414675626343823
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2942370089829076917
+      },
+      "ClipAssetName": "s-common-forward01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5348397752506593950
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4129635810797599646
+      },
+      "ClipAssetName": "s-common-forward02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5634864488032788062
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3729478529253360685
+      },
+      "ClipAssetName": "s-common-lookdown01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7853739807902822185
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5582686755376322260
+      },
+      "ClipAssetName": "s-common-nod01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 10212528189691428
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3437134213233876431
+      },
+      "ClipAssetName": "s-common-pose01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8028464142942954137
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4692046491371566170
+      },
+      "ClipAssetName": "s-common-sad01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5785559709576246109
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2226079519306318605
+      },
+      "ClipAssetName": "s-common-shakehead01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1521286136847575152
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3734927596502517343
+      },
+      "ClipAssetName": "s-common-tilthead01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1545026774984895525
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2489390048082567101
+      },
+      "ClipAssetName": "s-common-tilthead02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2997621057620341846
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -8152237329923128749
+      },
+      "ClipAssetName": "s-common-tilthead03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8296919425933626266
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -730584972886012685
+      },
+      "ClipAssetName": "w-cute01-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -3737987081080919122
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6041613355555665798
+      },
+      "ClipAssetName": "w-cute02-nod"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8389142701414159165
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4016097289354302804
+      },
+      "ClipAssetName": "w-cute02-nodB"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8582125977072034982
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 9180014150871049928
+      },
+      "ClipAssetName": "w-cute02-pose"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -118131553413904347
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 9164138373003916409
+      },
+      "ClipAssetName": "w-cute02-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1619061925095064392
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5614899648736163246
+      },
+      "ClipAssetName": "w-cute11-forward"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6879336584658170720
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -7730220064816451993
+      },
+      "ClipAssetName": "w-cute11-glad"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7530916703535860060
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 157174163189730800
+      },
+      "ClipAssetName": "w-cute11-guts"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -721799240285207884
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5666439682471445148
+      },
+      "ClipAssetName": "w-cute11-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1617186581087689585
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3276341071323100538
+      },
+      "ClipAssetName": "w-cute12-nod"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2920075168059547620
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4427730390129142502
+      },
+      "ClipAssetName": "w-cute12-pose"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 3446953134268466819
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2393521742948906663
+      },
+      "ClipAssetName": "w-cute12-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 3356084826286896345
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1153360111230325577
+      },
+      "ClipAssetName": "w-normal01-nod"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1622973349501395906
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2799989987772264714
+      },
+      "ClipAssetName": "w-normal01-tilthead"
+    }
+  ],
+  "Facials": [
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2003620852370656133
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6377812067987986931
+      },
+      "ClipAssetName": "face_angry_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4739301954492419759
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2576654912602602101
+      },
+      "ClipAssetName": "face_angry_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5116204811107103806
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8342970619582304653
+      },
+      "ClipAssetName": "face_angry_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -9032517516765924982
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2085240465661234251
+      },
+      "ClipAssetName": "face_angry_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 3033081514919118483
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8945951556717726035
+      },
+      "ClipAssetName": "face_angry_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7443903777295584777
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2058554238149152669
+      },
+      "ClipAssetName": "face_angry_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4056780141865272623
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6251362934262012662
+      },
+      "ClipAssetName": "face_closeeye_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6583545431247994152
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3926338937850964703
+      },
+      "ClipAssetName": "face_closeeye_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -227393251402722058
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5161039588589115201
+      },
+      "ClipAssetName": "face_closeeye_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 989724576684154506
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7188541303387802049
+      },
+      "ClipAssetName": "face_closeeye_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 784629085722457639
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5627542494616190035
+      },
+      "ClipAssetName": "face_cry_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 3436200419070174623
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4443867451128003166
+      },
+      "ClipAssetName": "face_cry_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4911959407667994221
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1085091711239935504
+      },
+      "ClipAssetName": "face_cry_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2704064677848268548
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1982010213106109774
+      },
+      "ClipAssetName": "face_cry_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -3429013199648030612
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6653828429072018649
+      },
+      "ClipAssetName": "face_cry_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2414741440485262942
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2188368156522626446
+      },
+      "ClipAssetName": "face_cry_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8671865140972773712
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5865138469079325728
+      },
+      "ClipAssetName": "face_cry_07"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 393424879082389798
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3123386351275698244
+      },
+      "ClipAssetName": "face_cry_08"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6760054471133164283
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1371780372395670451
+      },
+      "ClipAssetName": "face_cry_09"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 7938765976363084324
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 863137687478414995
+      },
+      "ClipAssetName": "face_delicious_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2583765197867070859
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5026806657193703954
+      },
+      "ClipAssetName": "face_disgust_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8105767424743289675
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5572205758955324438
+      },
+      "ClipAssetName": "face_eat_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 835657216103539020
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7775879045528002514
+      },
+      "ClipAssetName": "face_e_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2686397122921986541
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7946526575526742153
+      },
+      "ClipAssetName": "face_igs_angry_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 498639750733449977
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6998972813707351345
+      },
+      "ClipAssetName": "face_igs_angry_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7634564464983675161
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4107452385148151354
+      },
+      "ClipAssetName": "face_igs_closeeye_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1531429724612355866
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -8093643606440583438
+      },
+      "ClipAssetName": "face_igs_closeeye_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8528909478182899309
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -885359903562832143
+      },
+      "ClipAssetName": "face_igs_normal_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5262191476862305766
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1312934665870136711
+      },
+      "ClipAssetName": "face_igs_normal_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 727409513134320635
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6099001582241893502
+      },
+      "ClipAssetName": "face_igs_sad_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2539599029059058168
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 485312823906473421
+      },
+      "ClipAssetName": "face_igs_sad_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2609043011271555046
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6663962792885279919
+      },
+      "ClipAssetName": "face_igs_sad_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6385321853927676701
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -636200155577788728
+      },
+      "ClipAssetName": "face_igs_sad_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5385592637244513653
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -9040710716780463061
+      },
+      "ClipAssetName": "face_igs_sad_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4579172962903986673
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5299304660451898522
+      },
+      "ClipAssetName": "face_igs_sad_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2431974127263675775
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7621487765181451468
+      },
+      "ClipAssetName": "face_igs_smallmouth_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4238619758589050609
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -961059862989762677
+      },
+      "ClipAssetName": "face_igs_smile_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -3334758030806440915
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8461045736845973539
+      },
+      "ClipAssetName": "face_igs_smile_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4741136673072224947
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5634441894274033015
+      },
+      "ClipAssetName": "face_igs_smile_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 130490351939754618
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4545519277346108949
+      },
+      "ClipAssetName": "face_igs_smile_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4635037504372230144
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8524098439885545010
+      },
+      "ClipAssetName": "face_igs_smile_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -736770723394739474
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3962600882766347905
+      },
+      "ClipAssetName": "face_igs_surprise_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7531867494321060849
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3621741536665734776
+      },
+      "ClipAssetName": "face_igs_trouble_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -710065174966624714
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -8376412732795101585
+      },
+      "ClipAssetName": "face_ncangry_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7038767157156681900
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7827455850975395012
+      },
+      "ClipAssetName": "face_ncangry_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1756828426963292901
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4894072835136742556
+      },
+      "ClipAssetName": "face_ncangry_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8667922201480509711
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5333955227293691839
+      },
+      "ClipAssetName": "face_nccloseeye_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4112101136637547181
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -873047394417804686
+      },
+      "ClipAssetName": "face_ncnormal_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 9089682960426674271
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7814084448657805167
+      },
+      "ClipAssetName": "face_ncsad_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8525363383765532747
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6582391683390153765
+      },
+      "ClipAssetName": "face_ncshock_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4268209926830694791
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4008209813893875312
+      },
+      "ClipAssetName": "face_ncsmallmouth_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7624371277247378379
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2494296073677275480
+      },
+      "ClipAssetName": "face_ncsmile_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1151925938117170365
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3148314840771364252
+      },
+      "ClipAssetName": "face_ncsmile_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4135948490785676054
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5483043064614440381
+      },
+      "ClipAssetName": "face_ncsmile_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8020909660149913585
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1451259045082179487
+      },
+      "ClipAssetName": "face_ncsmile_07"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8378915310079196483
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4811661990090553811
+      },
+      "ClipAssetName": "face_ncsmile_08"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -9204806636150178165
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4883261012887578043
+      },
+      "ClipAssetName": "face_ncsmile_09"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5671435931383883687
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 745190717968654259
+      },
+      "ClipAssetName": "face_ncsmile_10"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1905290883995172064
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8219843951527885489
+      },
+      "ClipAssetName": "face_ncsmile_17"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -3103096880948048630
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5278242875683404692
+      },
+      "ClipAssetName": "face_ncsmile_18"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -269952605672917962
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1409350589078373881
+      },
+      "ClipAssetName": "face_ncsmile_19"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1881210601440815240
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2486990335906655658
+      },
+      "ClipAssetName": "face_ncsurprise_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6515090871304630109
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1233459504074916660
+      },
+      "ClipAssetName": "face_ncsurprise_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1916867685756139814
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7686206439747049476
+      },
+      "ClipAssetName": "face_nctrouble_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 6436867675011435825
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2439496215241661317
+      },
+      "ClipAssetName": "face_ncworry_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5513127230344478166
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6295314134117980770
+      },
+      "ClipAssetName": "face_normal_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 132305805656323761
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1447390939245631189
+      },
+      "ClipAssetName": "face_sad_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 416826493155460500
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6148420532001885159
+      },
+      "ClipAssetName": "face_sad_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 7120403391871100049
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6819396246767062127
+      },
+      "ClipAssetName": "face_sad_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4570779300516065109
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7790386534138758924
+      },
+      "ClipAssetName": "face_sad_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -568584818982055803
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -9158435076065660847
+      },
+      "ClipAssetName": "face_sad_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1177158078692845084
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4236866267645584414
+      },
+      "ClipAssetName": "face_sad_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8368613956287677619
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3084636296408743803
+      },
+      "ClipAssetName": "face_scared_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1689325806538904482
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1564807405559129954
+      },
+      "ClipAssetName": "face_scared_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6536317871105515833
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1614378789654835687
+      },
+      "ClipAssetName": "face_scared_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1483182593357626241
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3605582713105875326
+      },
+      "ClipAssetName": "face_scared_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -3044358940329468048
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4614076180482491854
+      },
+      "ClipAssetName": "face_scared_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4497727979790954186
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 569761791146481598
+      },
+      "ClipAssetName": "face_scared_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5146502556356841767
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1340431186166517445
+      },
+      "ClipAssetName": "face_scared_07"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2499305910583076533
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5465895405087933411
+      },
+      "ClipAssetName": "face_scared_08"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8165585294368873357
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6856231289281136280
+      },
+      "ClipAssetName": "face_serious_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5355835763133789174
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1488522687003419116
+      },
+      "ClipAssetName": "face_shock_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 9168060419112924997
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3283848639322513
+      },
+      "ClipAssetName": "face_shy_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2309178593134676374
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 9194442316868926253
+      },
+      "ClipAssetName": "face_sleepy_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1775769472206248947
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1965287508514053947
+      },
+      "ClipAssetName": "face_smallmouth_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2247970505852766682
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1723902118870973249
+      },
+      "ClipAssetName": "face_smile_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5412112383410731163
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1322757724526453161
+      },
+      "ClipAssetName": "face_smile_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2445219946304142076
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6443384710683313765
+      },
+      "ClipAssetName": "face_smile_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7893792876251212290
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2793011208751449772
+      },
+      "ClipAssetName": "face_smile_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1082848765679362364
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3020781062418551844
+      },
+      "ClipAssetName": "face_smile_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2441558339760691743
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4778143406780158875
+      },
+      "ClipAssetName": "face_smile_06"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 413299969522971483
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2758624473134957646
+      },
+      "ClipAssetName": "face_smile_07"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2530422623577604108
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8382266997382304653
+      },
+      "ClipAssetName": "face_smile_08"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 3659854165035903540
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1426927463689424877
+      },
+      "ClipAssetName": "face_smile_09"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 6340366942330912762
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 7366397420938517346
+      },
+      "ClipAssetName": "face_smile_10"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -1907126415651892430
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4250973843023242058
+      },
+      "ClipAssetName": "face_smile_11"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4439835667173842038
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3641630650063906630
+      },
+      "ClipAssetName": "face_smile_12"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2870693608421376260
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8166177753436391845
+      },
+      "ClipAssetName": "face_smile_13"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6792268254334351145
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4386210578030676949
+      },
+      "ClipAssetName": "face_smile_14"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8837063189973827158
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2497355360556087711
+      },
+      "ClipAssetName": "face_smile_15"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1019170790484333802
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -7436605851312148970
+      },
+      "ClipAssetName": "face_smile_16"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 6654981027302538955
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6162675354160855517
+      },
+      "ClipAssetName": "face_smug_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4081667810993823850
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5045891451797209856
+      },
+      "ClipAssetName": "face_sneeze_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 771216844234728170
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1392846061370999746
+      },
+      "ClipAssetName": "face_sparkling_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 6597892597779385922
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -8615262807112727396
+      },
+      "ClipAssetName": "face_sparkling_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5706409370120836166
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6556119378379831441
+      },
+      "ClipAssetName": "face_spicy_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 7793149667378170987
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3971591623092504123
+      },
+      "ClipAssetName": "face_surprise_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2481113645430913374
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6418329956736110344
+      },
+      "ClipAssetName": "face_surprise_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -8060536266740006776
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 2181473017403809684
+      },
+      "ClipAssetName": "face_surprise_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6313525199815130519
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 844474833352791981
+      },
+      "ClipAssetName": "face_surprise_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 2740086233052644452
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1955185500092965416
+      },
+      "ClipAssetName": "face_think_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2120265489591880817
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5555192291557106573
+      },
+      "ClipAssetName": "face_trouble_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 4837387678152901057
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5957535950107333964
+      },
+      "ClipAssetName": "face_trouble_02"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4149918763122687322
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3819515266229033725
+      },
+      "ClipAssetName": "face_trouble_03"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1144757197584547011
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8558400285394919230
+      },
+      "ClipAssetName": "face_trouble_04"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -309825734208590061
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -6776240266364860186
+      },
+      "ClipAssetName": "face_trouble_05"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 5525270176655348501
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8453803915489285659
+      },
+      "ClipAssetName": "face_wink_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5434134462773907075
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8396483697521692602
+      },
+      "ClipAssetName": "face_worry_01"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2253270472142324520
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 686526833294198775
+      },
+      "ClipAssetName": "face_yawn_01"
+    }
+  ],
+  "Arms": [],
+  "Poses": []
+}
