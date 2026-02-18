@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -309898890820754694
+  },
+  "m_Name": "w-normal01-nod",
+  "FadeInTime": 0.5,
+  "FadeOutTime": 0.5
+}
