@@ -1,14 +1,513 @@
 {
-  "m_GameObject": {
-    "m_FileID": 0,
-    "m_PathID": 0
-  },
-  "m_Enabled": 1,
-  "m_Script": {
-    "m_FileID": 0,
-    "m_PathID": -309898890820754694
-  },
-  "m_Name": "face_smile_05",
-  "FadeInTime": 0.25,
-  "FadeOutTime": 0.25
+    "Version": 3,
+    "Meta": {
+        "Name": "face_smile_05",
+        "Duration": 1.0,
+        "Fps": 60.0,
+        "Loop": true,
+        "AreBeziersRestricted": true,
+        "CurveCount": 45,
+        "UserDataCount": 0,
+        "TotalPointCount": 45,
+        "TotalSegmentCount": 45,
+        "TotalUserDataSize": 0
+    },
+    "Curves": [
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowRX",
+            "Segments": [
+                0,
+                -0.4000000059604645,
+                2,
+                1.0,
+                -0.4000000059604645
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowRY",
+            "Segments": [
+                0,
+                -0.4000000059604645,
+                2,
+                1.0,
+                -0.4000000059604645
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowRAngle",
+            "Segments": [
+                0,
+                -0.10000000149011612,
+                2,
+                1.0,
+                -0.10000000149011612
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowRForm",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowLX",
+            "Segments": [
+                0,
+                -0.4000000059604645,
+                2,
+                1.0,
+                -0.4000000059604645
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowLY",
+            "Segments": [
+                0,
+                -0.4000000059604645,
+                2,
+                1.0,
+                -0.4000000059604645
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowLAngle",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamBrowLForm",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeROpen",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeRSmile",
+            "Segments": [
+                0,
+                -0.5,
+                2,
+                1.0,
+                -0.5
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeRForm",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeLOpen",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeLSmile",
+            "Segments": [
+                0,
+                -0.5,
+                2,
+                1.0,
+                -0.5
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeLForm",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeballY",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeSize",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeTeary",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamMouthForm",
+            "Segments": [
+                0,
+                0.6000000238418579,
+                2,
+                1.0,
+                0.6000000238418579
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamMouthForm2",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTeeth",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamMouthScaleX",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamMouthScaleY",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamMouthPositionY",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTear",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTear3",
+            "Segments": [
+                0,
+                -1.0,
+                2,
+                1.0,
+                -1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTear4",
+            "Segments": [
+                0,
+                -1.0,
+                2,
+                1.0,
+                -1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTearL",
+            "Segments": [
+                0,
+                10.0,
+                2,
+                1.0,
+                10.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTearR",
+            "Segments": [
+                0,
+                10.0,
+                2,
+                1.0,
+                10.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTearHighlightL",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamTearHighlightR",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "Paramtongue",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamFaceShadow",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamSweatMove",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamSweatOn",
+            "Segments": [
+                0,
+                1.0,
+                2,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamFumeChange",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamMoveFume",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeSpecial",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeHilightonoff",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyebrowChange",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamEyeChange",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamCheekAngry",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamSpecialEye01",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamSpecialEyebrow01",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamSpecialEye02",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        },
+        {
+            "Target": "Parameter",
+            "Id": "ParamCheek2",
+            "Segments": [
+                0,
+                0.0,
+                2,
+                1.0,
+                0.0
+            ]
+        }
+    ],
+    "UserData": []
 }
