@@ -1,0 +1,230 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6413543072410442539
+  },
+  "m_Name": "BuildModelData",
+  "Moc3FileName": "v2_14_igs_princess_t02.moc3.bytes",
+  "TextureNames": [
+    "v2_14_igs_princess_t02.2048/texture_00.png"
+  ],
+  "PhysicsFileName": "v2_14_igs_princess_t02.physics3.json",
+  "UserDataFileName": "",
+  "AdditionalMotionData": [
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 3764565224145425537
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -2254884795898894735
+      },
+      "ClipAssetName": "w-adult02-blushed"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8489826888980833405
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3157987368981089495
+      },
+      "ClipAssetName": "w-adult02-glad"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5756086724041520609
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -5556289117423879443
+      },
+      "ClipAssetName": "w-adult02-nod"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6154777288511543055
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -8646337899192945280
+      },
+      "ClipAssetName": "w-adult02-pose"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 1402839964403686249
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -91544054195647117
+      },
+      "ClipAssetName": "w-adult02-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 9209888627031087896
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1982390190057209126
+      },
+      "ClipAssetName": "w-adult02-trouble"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4387550519483853117
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 4372286016258315806
+      },
+      "ClipAssetName": "w-adult05-blushed"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -2769657473282043816
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -1260086197188529698
+      },
+      "ClipAssetName": "w-adult05-nod"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6984008971783157220
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 6584674996724231471
+      },
+      "ClipAssetName": "w-adult05-pose"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -4418229310232786010
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 1780810269194267113
+      },
+      "ClipAssetName": "w-adult05-think"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8933732700190820872
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 5789970387459777075
+      },
+      "ClipAssetName": "w-adult05-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -7596776172034849118
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -3641755020416301173
+      },
+      "ClipAssetName": "w-adult05-trouble"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 6761308221640453760
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -4209263299506613896
+      },
+      "ClipAssetName": "w-adult06-blushed"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 823205461039418667
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 3435407069860726100
+      },
+      "ClipAssetName": "w-adult06-nod"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -5791118159476349515
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 8763917445046107475
+      },
+      "ClipAssetName": "w-adult06-pose"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -938168200563738325
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -622484499048493341
+      },
+      "ClipAssetName": "w-adult06-think"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -6613537082636953057
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": 458848862226584785
+      },
+      "ClipAssetName": "w-adult06-tilthead"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": -476344832611974409
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -7038082248230108305
+      },
+      "ClipAssetName": "w-adult06-trouble"
+    },
+    {
+      "Clip": {
+        "m_FileID": 0,
+        "m_PathID": 8850270009101604433
+      },
+      "Meta": {
+        "m_FileID": 0,
+        "m_PathID": -715609860430227481
+      },
+      "ClipAssetName": "w-normal15-tilthead"
+    }
+  ],
+  "CategoryRules": []
+}

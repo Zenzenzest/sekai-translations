@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "v2_14_igs_princess_t02.moc3",
+		"Textures": [
+			"v2_14_igs_princess_t02.2048/texture_00.png"
+		],
+		"Physics": "v2_14_igs_princess_t02.physics3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
